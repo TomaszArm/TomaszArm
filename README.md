@@ -33,7 +33,7 @@ I enjoy solving problems with data, creating clear visualizations, and automatin
 
 ### 🔍 Featured Projects
 - **Rain Alert with Weather API** – a Python program that fetches live weather data and sends an email alert when rain is forecasted
-- **Working Day Tracker** – scrapes data from a website and sends a Telegram message showing how many times a specific driver has worked
+- **Driver Work Frequency Monitor** – scrapes data from a website and sends a Telegram message showing how many times a specific driver has worked
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tomasz-armatys/)

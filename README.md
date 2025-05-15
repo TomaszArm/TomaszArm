@@ -6,24 +6,20 @@ I enjoy solving problems with data, creating clear visualizations, and automatin
 ### 🛠️ Tools & Technologies
 **Data Analysis**: 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="24" height="24" />
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" height="24" />
-  </a>  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" />
-  </a>
-
-- **Visualization**:  
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="24" height="24" />
-  </a>
-
-- **Other**:  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" height="24" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" />
+</a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="vertical-align: middle; margin-right: 10px;" />
+</a>
 
 ### 🔍 Featured Projects
 - **Rain Alert with Weather API** – a Python program that fetches live weather data and sends an email alert when rain is forecasted

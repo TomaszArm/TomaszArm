@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello! I'm Tomasz Armatys
 
-<!--
-**TomaszArm/TomaszArm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** passionate about transforming data into actionable insights.  
+I enjoy solving problems with data, creating clear visualizations, and automating tasks to make work easier and smarter.
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Technologies
+- **Data Analysis**: Microsoft Excel, SQL, MySQL, Python  
+- **Visualization**: Tableau  
+- **Other**: Git, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Featured Projects
+- **Weather API Dashboard** – fetching and analyzing weather data via API  
+- **Working Day Tracker** – a tool to monitor productivity and work patterns  
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/TWOJ-LINK)
+
+---
+
+_Thanks for visiting my profile! Feel free to explore my repositories or reach out._
